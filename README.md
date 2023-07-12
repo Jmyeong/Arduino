@@ -1,4 +1,4 @@
-# Arduino
+# Tracking machine using one HC-SR04
 You need Servo.h and NewPing.h for arduino Also need HC-SR04 and servo motor
 
 This uses only one HC-SR04 to tracking object
